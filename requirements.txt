@@ -1,0 +1,4 @@
+pandas
+numpy
+cvxpy[CVXOPT,GUROBI,MOSEK]
+plotly
